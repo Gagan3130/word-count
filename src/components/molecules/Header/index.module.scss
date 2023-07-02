@@ -1,0 +1,14 @@
+.header {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+
+  .mode {
+    float: right;
+    border: 1px solid lightgrey;
+    padding: 6px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+  }
+}
